@@ -1,0 +1,34 @@
+h1 {
+  color: blue;
+}
+.class {
+  color: red;
+}
+
+#ID {
+  color: purple;
+}
+input[type="text"] {
+  color: green;
+}
+div p {
+  color: brown;
+}
+div > section > p {
+  color: violet;
+}
+p.class1.class2 {
+  color: darkslateblue;
+}
+
+#menu li.Special {
+  color: rgb(126, 0, 15);
+}
+
+section#promo h2 {
+  color: crimson;
+}
+
+div.wrap.text p.text {
+  color: rgb(139, 0, 67);
+}
